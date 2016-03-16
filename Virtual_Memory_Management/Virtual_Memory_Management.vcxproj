@@ -87,6 +87,18 @@
     <ClCompile Include="Shell.cpp" />
     <ClCompile Include="TLB.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="TestCases\case1.txt" />
+    <Text Include="TestCases\case2.txt" />
+    <Text Include="TestCases\case3.txt" />
+    <Text Include="TestCases\case4.txt" />
+    <Text Include="TestCases\case5.txt" />
+    <Text Include="TestCases\case6.txt" />
+    <Text Include="TestCases\input1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="TestCases\figures.xlsx" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -36,4 +36,32 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="TestCases\case1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TestCases\case2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TestCases\case3.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TestCases\case4.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TestCases\case5.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TestCases\case6.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="TestCases\input1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="TestCases\figures.xlsx">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
